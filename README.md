@@ -1,15 +1,46 @@
-# Telangana_Growth_Analysis
+# Introduction:
+Telangana is one of the fastest-growing states in India and one of the states with an open data policy. Our objective is to analyse Telangana’s growth among different sectors quantitatively 
+and provide useful insights to the Telangana government that would help them make data-informed decisions that would further support the growth of the state.
+ 
+# Objective:
+• Explore Stamp Registration, Transportation and Ts-Ipass datasets. Understand their attributes, categories and time period.
+• Analyze trends and patterns within each department.
+• Identify growth opportunities and areas needing attention.
+• Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
+ 
+# Resources Provided:
+📍 Dataset required for analysis
+📍 Telangana district map
+📍 Metadata
+📍 Survey questions
+ 
+# Tools Used:
+⭐ Power Query: ETL
+⭐ PowerBI: Dashboard
+⭐ Canva: Graphics
+⭐ ClipChamp: Video Editing
 
-[Link to Interactive dashboard]([https://app.powerbi.com/view?r=eyJrIjoiODQ4MDdiMTUtZDAzOC00M2IyLWE5OWMtZjNjNjFlY2FhNmQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://codebasics.io/))
-Dive into the dynamics of Telangana's economic development with this data analysis project. 
 
-Leveraging Python's data analysis toolkit, including Pandas, NumPy, Matplotlib, and Seaborn, we've dissected three pivotal datasets: Stamps Registration, Transportation, and TS iPASS.
+Homepage of the dashboard:
 
-Key Highlights: Data-Driven Insights: 
-This repository houses the code that transformed raw data into actionable insights. Explore how we harnessed the power of Pandas and NumPy for data wrangling and statistical analysis. 
+![capture_240224_201119](https://github.com/sivajetteboina/Telangana_Growth_Analysis/assets/144469525/c8526a37-8bf6-483d-a9d1-8a1744bdc80e)
 
-Impactful Visualizations: Discover the visual stories behind Telangana's growth. Matplotlib and Seaborn were our canvas, painting vibrant charts and graphs that make complex data accessible. 
+Stamps Registration :
 
-Answering Stakeholder Questions: We addressed fundamental questions raised by stakeholders. From the environmental impact of plastic and rubber investments to the promotion of electric vehicles, our analyses have far-reaching implications.
+![capture_240224_201145 (1)](https://github.com/sivajetteboina/Telangana_Growth_Analysis/assets/144469525/e883f52b-fc85-43be-bbc0-612def518791)
 
-Regional Disparities: We dove deep into district-level analyses, uncovering nuances and regional disparities in economic growth. From real estate to industrial parks, we explored where opportunities Recommendations for Progress: Beyond analysis, this project offers valuable recommendations for sustainable investments, renewable energy expansion, and embracing technological advancements.
+Transportation dashboard:
+
+![capture_240401_101230](https://github.com/sivajetteboina/Telangana_Growth_Analysis/assets/144469525/9df834f3-48da-4ad5-adfa-027c1550bc34)
+
+
+iPASS dashboard :
+
+![capture_240401_101247](https://github.com/sivajetteboina/Telangana_Growth_Analysis/assets/144469525/6c53b275-a5c1-4acb-a964-e33d0f5fd0c7)
+
+
+Secodary Analysis dashboard:
+
+![capture_240401_101309](https://github.com/sivajetteboina/Telangana_Growth_Analysis/assets/144469525/6c45fcb8-0c94-442a-9727-4aa443241bc9)
+
+

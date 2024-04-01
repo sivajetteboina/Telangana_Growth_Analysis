@@ -18,7 +18,7 @@ and provide useful insights to the Telangana government that would help them mak
 ⭐ Power Query: ETL
 ⭐ PowerBI: Dashboard
 ⭐ Canva: Graphics
-⭐ ClipChamp: Video Editing
+
 
 
 Homepage of the dashboard:
